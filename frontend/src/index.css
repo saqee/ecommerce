@@ -1,0 +1,13 @@
+main{
+    min-height: 80vh;
+    
+}
+
+.navbar{
+    border-right:none !important ;
+    border-left:none !important ;
+}
+
+a{
+    text-decoration: none;
+}
